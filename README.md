@@ -1,4 +1,7 @@
-core classes, functions, and methods:
+A handy utility to create files within a directory with database like convention. 
+
+
+Below are the core classes, functions, and methods:
 
 1. FileSystemDatabase:
    - `create_table(table_name: str) -> None`: Creates a new table in the database.
